@@ -29,7 +29,7 @@ void classificar(){
 }
 
 void pesq_binaria(){
-    printf("===================================================\n");
+    printf("==================================================\n");
     direita = n;
     esquerda = 0;
     meio = 0;
